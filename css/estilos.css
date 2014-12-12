@@ -1,0 +1,559 @@
+/* CSS Document */
+
+div{
+	padding:5px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+input[type="text"]{
+	width:110px;
+	margin:8px auto;
+	font-size:9px;
+}
+
+h2{
+	color:#74ABD8;
+	font-size:18px;
+	margin:6px 4px;
+	text-align:center;
+}
+
+h2 a{
+	color:#b7dfff;
+	margin:6px 4px;
+	text-align:center;
+}
+
+h2 a:hover{
+	color:#D7EDFF;	
+}
+
+h3{
+	color:#000;
+	font-size:14px;
+	margin:6px 4px;	
+}
+a{
+	color:#a0d600;
+	text-decoration:none;
+	display:block;
+	cursor:pointer;
+}
+a:hover{
+	color:#FFF;	
+}
+		
+body{
+	background:black url(../wallpapers/w10.jpg) no-repeat top center fixed;
+        font-family:"Ubuntu", Verdana, Geneva, sans-serif;
+	font-size:14px;	
+}
+
+#divLogin{
+	background-color: rgba(255, 255, 255, 0.4);
+	padding:8px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#divLogin input{
+	width:120px;
+	height:12px;
+}
+
+#divExit{
+	position:fixed;
+	right:0px;
+	top:0px;
+	cursor:pointer;
+	background-color: rgba(255, 255, 255, 0.4);
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+#divBuscador{
+	position:fixed;
+	top: 80px;
+	right:-8px;
+	width:114px;
+	height: 30px;
+	background-color: rgba(255, 255, 255, 0.4);
+	color:#FFF;
+	z-index:2;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	-webkit-transition:All 0.5s ease;
+    -moz-transition:All 0.5s ease;
+    -o-transition:All 0.5s ease;
+	overflow: hidden;
+}
+
+#divBuscador:hover{
+	height: 170px;
+}
+
+	#divBuscador:hover #buscadores{
+		display: block;
+	}
+
+#buscadores{
+	display: none;
+}
+
+#divOnline{
+	position:absolute;
+	top:130px;
+	left:-8px;
+	width:143px;
+	height: 30px;
+	background-color: rgba(255, 255, 255, 0.4);
+    -webkit-transition:All 0.5s ease;
+    -moz-transition:All 0.5s ease;
+    -o-transition:All 0.5s ease;
+	overflow: hidden;
+
+}
+
+  #divOnline:hover{
+	  height: 722px;
+  }
+
+  #divUsuarios{
+	  margin-left: -4px;
+  }
+
+.spnOnline{
+		background-color: rgba(0, 0, 0, 0.5);
+		padding:2px 4px 2px 0px;
+		margin:2px 0px 0px 2px;
+		display:inline-block;
+		-webkit-border-top-right-radius: 10px;
+		-webkit-border-bottom-right-radius: 10px;
+		-moz-border-radius-topright: 10px;
+		-moz-border-radius-bottomright: 10px;
+		border-top-right-radius: 10px;
+		border-bottom-right-radius: 10px;
+}
+
+
+#divMensajes{
+	position:fixed;
+	top: 60px;
+	left: 0px;
+	min-width:50px;
+	background-color: rgba(255, 255, 255, 0.4);	
+	font-size: 10px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+#divMensajes a{
+	display:inline;
+	font-size: 10px;
+	color:#FC3;
+}
+#divMensajes a:hover{
+	color:#F93;
+}
+
+#divCuerpo{
+	position:relative;
+	width:880px;
+	min-height:500px;
+	margin:auto;
+	background-color: rgba(255, 255, 255, 0.4);
+	padding:8px;
+}
+	.Item{
+		margin:8px;
+		min-height:55px;
+		float:left;
+		background-color: rgba(0, 0, 0, 0.5);
+		color:#FFF;
+	}
+	
+	#divAnuncio{
+	    left: 714px;
+	    position: absolute;
+	    top: -16px;
+	    z-index: 2;
+	}
+	
+	#divNoticias{
+		position:relative;
+		width:855px;
+		margin:0px auto;
+		font-size:12px;
+		padding:4px;
+		color:#FFF;
+        text-align:center;
+	}
+		#divMasNoticias input[type="text"]{
+			width:180px;	
+		}
+		#showMasNoticias{
+				margin:-22px -8px 0px 0px;
+		}
+			
+
+	#divCategorias{
+		position:relative;
+		width:250px;
+	}
+		.divCategoria{
+			width:50px;
+			height:50px;
+			float:left;
+			cursor:pointer;
+		}
+		#divMasLinks{
+			position:absolute;
+			top:-55px;
+			left:-158px;
+			width:120px;
+			height:150px;
+			background-color: rgba(255, 255, 255, 0.5);
+			text-align:center;
+			z-index:1;
+		}
+                #divMasLinks input[type="text"]{
+                        width: 110px;
+                }
+		#divMasLinks select{
+			width:114px;
+			height:16px;
+			font-size:10px;
+			margin-bottom:5px;
+		}
+		#divCategorias a{
+			padding:0px 0px 4px 8px;
+		}
+		
+		#divLinks{
+			width:238px;
+			height:420px;
+			position:absolute;
+			text-align:right;
+			top:0px;
+			left:1px;
+			background-color: rgba(255, 255, 255, 0.7);
+			overflow:auto;
+			z-index:101;
+		}
+		
+		#divLinks a{
+			color:#000;
+			font-weight:bold;
+			padding:3px;
+		}
+		
+		#divLinks a:hover{
+			color:#CF0;
+			background-color: rgba(0, 0, 0, 0.6);
+			-webkit-border-radius: 6px;
+			-moz-border-radius: 6px;
+			border-radius: 6px;
+		}
+	
+	#divComentarios{
+		width:410px;
+	}
+		#divComent{
+			width:400px;
+			height:400px;
+			overflow:auto;	
+		}
+		#masComentarios input[type="text"]{
+			width:320px;
+			margin:0px auto;
+		}
+
+        	.comentarioI{
+				width:376px;
+				margin:4px auto;
+				font-size:12px;
+				padding:4px;
+				background-color: rgba(120, 0, 0, 0.5);
+				line-height: 16px;
+			}
+
+		.comentario{
+			width:376px;
+			margin:4px auto;
+			font-size:12px;
+			padding:4px;
+			background-color: rgba(0, 0, 0, 0.5);
+		}
+		
+		.comentario a{
+				font-size:12px;
+				color:#88b501;
+			}
+			.comentario a:hover{
+				color:#a0d600;
+			}
+         
+		.mensaje{
+			width:376px;
+			margin:4px auto;
+			font-size:12px;
+			padding:4px;
+			background-color: rgba(255, 255, 255, 0.7);
+		}  
+		
+		.noticia{
+			position:relative;
+			margin:0px auto;
+			text-align:center;
+			width:94%;
+		}
+		
+	#divDesarrollo{
+		position:fixed;
+		bottom:-5px;
+		right:-5px;
+		width:210px;
+		background-color: rgba(255, 255, 255, 0.5);
+		z-index:3;
+		height: 75px;
+		-webkit-transition:All 0.5s ease;
+		-moz-transition:All 0.5s ease;
+		-o-transition:All 0.5s ease;
+		overflow: hidden;
+	}
+		#divDesarrollo #accesoFTP{
+			text-align: center;
+			background-color: rgba(0, 0, 0, 0.6);
+			margin: 0 auto;
+		}
+	
+	#sID{
+		display: none;
+	}
+	
+	#divDesarrollo:hover{
+		height: 355px;
+	}
+	
+	#divDesarrollo:hover div{
+		display: block;
+	}
+	
+		#masDesarrollo input{
+				width:180px;
+				margin:0px auto;
+		}
+		.desarrollo{
+			width:180px;
+			margin:4px auto;
+			font-size:12px;
+			padding:4px;
+			background-color: rgba(0, 0, 0, 0.5);
+		}
+	#divMusica{
+		text-align:right;	
+	}
+	#divMusica a{
+				font-size:10px;
+				color:#FFF;
+                }
+	#divMusica a:hover{
+				color:#a0d600;
+                }			
+		#divRadio{
+                    float:left;
+                    background-color: rgba(255, 255, 255, 0.5);
+                }
+	
+	#divReciente{
+		width:140px;
+		line-height:1.2;
+	}
+	
+	#divObras{
+		position:relative;
+		width:270px;
+	}
+		#divMasObras{
+			width:140px;
+			height:92px;
+			margin: 0 auto;
+		}
+		
+	#divSugerencias{
+		width:140px;	
+	}
+		#divMasSugerencias{
+			text-align:center;	
+		}
+        
+        #divVideos{
+            width:380px;
+        }
+		
+		#divMasVideos{
+			text-align:center;	
+		}
+		
+		.divMas input[type="text"]{
+			width:180px;	
+		}
+                
+                #subItemVideos{
+                        overflow:hidden;
+                        min-height:310px;
+                        position:relative;
+                }
+                #showMasVideos{
+                    position: absolute;
+                    top: 308px;
+                    left: 367px;
+                }
+
+                #divRistra{
+                        width:1550px;
+                        position:relative;
+                        left:-10px;
+                }
+
+		
+	#divJuegos li{
+		position:relative;	
+	}	
+		#divJuegos li:hover div{
+			display:block;	
+		}		
+		.snapshot{
+			width:200px;
+			height:122px;
+			display:none;
+			position:absolute;
+			z-index:2;
+			top: -100px;
+			left: 100px;
+			background-color: rgba(0, 0, 0, 0.5);
+		}
+		
+            #divArchivos{
+                width:150px
+            }
+                
+		#divImg {
+			/*width: 250px;
+			height: 200px;
+			margin: 0px auto;
+			text-align: left;*/
+			position: relative;
+			overflow: hidden;
+		}
+		#divImg img {
+            position:absolute;
+			/*top:70px;
+			width: 250px;
+			height:
+			margin: 0px auto;
+			filter: alpha(opacity=1);
+			opacity: 1;
+			-moz-opacity: 1;*/
+		}
+		
+		.content{
+			width: 800px !important;
+			height: 500px;
+		}
+
+.divMas{
+    text-align:center;
+}
+
+.divObject{
+        float:left;	
+}
+		
+.titulo{
+	text-align:center;	
+}
+.clickable{
+	float:right;
+	font-size:11px;
+	cursor:pointer;
+	margin: -10px;
+}
+.clickable:hover{
+	color:#ffd544;
+}
+.relativo{
+	position:relative;	
+}
+.limpia{
+	clear:both;
+}
+.flotando{
+	cursor:pointer;
+	float:right;
+	margin:-22px 10px 0px 0px;
+}
+.floatL{
+	float:left;
+}
+.floatR{
+	float: right;
+	margin: 10px 10px 0 0;
+}
+.reciente{
+	font-size:11px;	
+}
+.usuario{
+	color:#ffc43d;
+	font-weight:bold;
+	text-shadow: 2px 2px 4px #000000;
+	filter: dropshadow(color=#000000, offx=2, offy=2);
+}
+
+.titular{
+	color:#B7DFFF;
+	font-weight:bold;
+	padding:8px;
+}
+
+.content{
+	background-color: rgba(0, 0, 0, 0.6) !important;	
+}
+
+.colorao{
+	color:#F00;
+	font-weight:bold;
+	font-size:10px;
+}
+
+.archivos, .juego{
+    font-size: 11px;
+	margin-bottom: 4px;
+}
+
+.fecha{
+	float:right;
+	margin-right:6px;
+	font-size:8px;
+}
+
+.formularios{
+	font-family:"Ubuntu", Verdana, Geneva, sans-serif;
+}
+
+.formularios textarea, .formularios input{
+	margin: 0 auto;
+}

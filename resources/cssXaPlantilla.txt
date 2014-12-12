@@ -1,0 +1,14 @@
+.main-brand {
+	left: 0px;
+}
+	.main-brand__container {
+		left: 50px;
+	}
+
+.profile {
+	right: 0px;
+}
+
+.main-search {
+	right: 261px;
+}

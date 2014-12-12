@@ -1,0 +1,14 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+Rewriterule ^home$ hipotalamo.php?mode=home [NS]
+Rewriterule ^profile-([0-9]+)-(.*)$ hipotalamo.php?mode=profile&user=$1 [NS]
+Rewriterule ^profile$ hipotalamo.php?mode=profile [NS]
+Rewriterule ^messages$ hipotalamo.php?mode=messages [NS]
+Rewriterule ^configuration$ hipotalamo.php?mode=configuration [NS]
+
+Rewriterule ^logout$ logout.php [NS]
+Rewriterule ^ciao$ index.php [NS]
+
+ErrorDocument 404 /2.0/404.php
+DirectoryIndex index.php

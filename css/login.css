@@ -1,0 +1,57 @@
+/******   Login   ******/
+
+body{
+	background:black url(/2.0/img/backgrounds/back.jpg) top left;
+   	font-family:"Ubuntu", Verdana, Geneva, sans-serif;
+	font-size:14px;
+}
+
+#logo{
+	display: block;
+	margin: 100px auto 0;
+}
+
+
+
+
+#login{
+	position: relative;
+	width: 450px;
+	height: 100px;
+	margin: 100px auto 0;
+	display:block;
+}
+
+#login label {
+  	width: 105px;
+	display: inline-block;
+	margin-top: 16px;
+	font-weight: bold;
+	color: #B5B5B5;
+	font-size: 14px;
+}
+
+#login input[type='text'] {
+	background: url(/2.0/img/nptUser.png) no-repeat top left;
+	padding-left: 15px;
+	width: 310px;
+	height: 41px;
+	border: 0px;
+	color: white;
+}
+
+#login input[type='password'] {
+	background: url(/2.0/img/nptPass.png) no-repeat top left;
+	margin-top: 5px;
+	padding-left: 15px;
+	width: 310px;
+	height: 41px;
+	border: 0px;
+	color: white;
+}
+
+#login input[type='image'] {
+	position: absolute;
+	top: 22px;
+	left: 392px;
+}
