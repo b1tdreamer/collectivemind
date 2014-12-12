@@ -1,0 +1,202 @@
+[10-Dec-2014 21:13:09] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/jmivswnm/public_html/2.0/_inserciones.php on line 68
+[10-Dec-2014 21:13:38] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/jmivswnm/public_html/2.0/_inserciones.php on line 13
+[10-Dec-2014 21:13:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/_inserciones.php:13) in /home/jmivswnm/public_html/2.0/_inserciones.php on line 65
+[10-Dec-2014 22:44:30] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/jmivswnm/public_html/2.0/_inserciones.php on line 58
+[10-Dec-2014 22:44:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/_inserciones.php:58) in /home/jmivswnm/public_html/2.0/_inserciones.php on line 68
+[10-Dec-2014 23:22:38] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 4
+[10-Dec-2014 23:22:38] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:22:57] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:27:49] PHP Warning:  intval() expects parameter 2 to be long, string given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 4
+[10-Dec-2014 23:27:49] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:34:54] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:38:39] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/users.php on line 21
+[10-Dec-2014 23:40:27] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/users.php on line 20
+[10-Dec-2014 23:42:15] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/users.php on line 20
+[10-Dec-2014 23:42:37] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/users.php on line 20
+[10-Dec-2014 23:50:06] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:50:11] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:13] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:14] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:18] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:25] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:33] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:41] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:41] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:41] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:41] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:42] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:47] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:48] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:51:55] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[10-Dec-2014 23:59:09] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jmivswnm/public_html/2.0/modules/profile.php on line 8
+[10-Dec-2014 23:59:17] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jmivswnm/public_html/2.0/modules/profile.php on line 8
+[11-Dec-2014 00:00:14] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jmivswnm/public_html/2.0/modules/profile.php on line 8
+[11-Dec-2014 00:00:32] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/jmivswnm/public_html/2.0/modules/profile.php on line 8
+[11-Dec-2014 00:00:51] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/profile.php on line 10
+[11-Dec-2014 09:28:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/aside.php on line 2
+[11-Dec-2014 09:28:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/profile.php on line 2
+[11-Dec-2014 14:40:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/aside.php on line 2
+[11-Dec-2014 14:40:43] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/aside.php on line 5
+[11-Dec-2014 14:40:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/profile.php on line 2
+[11-Dec-2014 15:24:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/aside.php on line 2
+[11-Dec-2014 15:24:59] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/aside.php on line 5
+[11-Dec-2014 15:24:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/profile.php on line 2
+[11-Dec-2014 19:37:26] PHP Warning:  include_once(modules/messages.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:37:26] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'modules/messages.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:40:37] PHP Warning:  include_once(modules/messages.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:40:37] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'modules/messages.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:40:59] PHP Warning:  include_once(modules/messages.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:40:59] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'modules/messages.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:42:28] PHP Warning:  include_once(modules/messages.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:42:28] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'modules/messages.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:46:51] PHP Warning:  include_once(modules/messages.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 19:46:51] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'modules/messages.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jmivswnm/public_html/2.0/hipotalamo.php on line 63
+[11-Dec-2014 22:35:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/aside.php on line 2
+[11-Dec-2014 22:35:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/aside.php on line 5
+[11-Dec-2014 22:35:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/messages.php on line 2
+[11-Dec-2014 22:35:21] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/jmivswnm/public_html/2.0/modules/messages.php on line 4
+[11-Dec-2014 22:35:21] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 5
+[11-Dec-2014 22:35:21] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 21
+[11-Dec-2014 22:35:46] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/jmivswnm/public_html/2.0/modules/messages.php on line 4
+[11-Dec-2014 22:35:46] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 5
+[11-Dec-2014 22:35:46] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 21
+[11-Dec-2014 22:36:31] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 5
+[11-Dec-2014 22:36:31] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 21
+[11-Dec-2014 22:40:30] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 6
+[11-Dec-2014 22:40:30] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 22
+[11-Dec-2014 22:40:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 6
+[11-Dec-2014 22:40:59] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 22
+[11-Dec-2014 22:43:31] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 5
+[11-Dec-2014 22:43:31] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 21
+[11-Dec-2014 22:45:23] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/jmivswnm/public_html/2.0/modules/messages.php on line 21
+[11-Dec-2014 23:28:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:28:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:31:17] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:31:17] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:31:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:31:59] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:35:24] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:35:24] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:35:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:35:48] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:35:52] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:35:52] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:38:16] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:38:16] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:39:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:39:27] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:39:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:39:38] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:39:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:39:50] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:40:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:40:03] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:40:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:40:07] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:40:17] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:40:17] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:40:36] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:40:36] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:41:05] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:41:05] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:41:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:41:22] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:42:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:42:08] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:42:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:42:32] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:42:56] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 6
+[11-Dec-2014 23:42:56] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/jmivswnm/public_html/2.0/includes/functions.php on line 7
+[11-Dec-2014 23:43:13] PHP Parse error:  syntax error, unexpected ';' in /home/jmivswnm/public_html/2.0/modules/header.php on line 23
+[11-Dec-2014 23:43:19] PHP Parse error:  syntax error, unexpected ';' in /home/jmivswnm/public_html/2.0/modules/header.php on line 23
+[11-Dec-2014 23:43:37] PHP Parse error:  syntax error, unexpected ';' in /home/jmivswnm/public_html/2.0/modules/header.php on line 23
+[11-Dec-2014 23:43:52] PHP Parse error:  syntax error, unexpected ';' in /home/jmivswnm/public_html/2.0/modules/header.php on line 23
+[11-Dec-2014 23:43:52] PHP Parse error:  syntax error, unexpected ';' in /home/jmivswnm/public_html/2.0/modules/header.php on line 23
+[11-Dec-2014 23:43:54] PHP Parse error:  syntax error, unexpected ';' in /home/jmivswnm/public_html/2.0/modules/header.php on line 23
+[12-Dec-2014 00:14:58] PHP Fatal error:  Call to undefined function striptags() in /home/jmivswnm/public_html/2.0/modules/users.php on line 31
+[12-Dec-2014 00:15:50] PHP Fatal error:  Call to undefined function striptags() in /home/jmivswnm/public_html/2.0/modules/users.php on line 31
+[12-Dec-2014 00:31:40] PHP Fatal error:  Call to undefined function striptags() in /home/jmivswnm/public_html/2.0/modules/comments.php on line 35
+[12-Dec-2014 00:39:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/aside.php on line 2
+[12-Dec-2014 00:39:10] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/aside.php on line 5
+[12-Dec-2014 00:39:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/comments.php on line 2
+[12-Dec-2014 00:39:10] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/users.php on line 2
+[12-Dec-2014 16:17:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jmivswnm/public_html/2.0/hipotalamo.php:13) in /home/jmivswnm/public_html/2.0/modules/aside.php on line 2
+[12-Dec-2014 16:17:12] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/jmivswnm/public_html/2.0/modules/aside.php on line 5

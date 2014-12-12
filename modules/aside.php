@@ -58,15 +58,21 @@ $rcsUser = mysqli_fetch_array($user);
 		</a>
 	    </li>
 	    <li>
-		<a class="main-nav__link" href="stats.html">
-		    <span class="main-nav__icon"><i class="pe-7f-graph3"></i></span>
-		    Statistics
-		</a>
-	    </li>
-	    <li>
 		<a class="main-nav__link" href="grid.html">
 		    <span class="main-nav__icon"><i class="pe-7f-browser"></i></span>
 		    ¿Qué hay hoy?
+		</a>
+	    </li>
+	    <li>
+		<a class="main-nav__link" href="stats.html">
+		    <span class="main-nav__icon"><i class="pe-7f-graph"></i></span>
+		    Contrastes
+		</a>
+	    </li>
+	    <li>
+		<a class="main-nav__link" href="downloads">
+		    <span class="main-nav__icon"><i class="pe-7f-download"></i></span>
+		    Descargas
 		</a>
 	    </li>
 	</ul>

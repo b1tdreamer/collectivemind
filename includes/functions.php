@@ -1,5 +1,25 @@
 <?
 require_once('conn.php');
+
+/**
+ * Time ago
+ */
+function timeAgo($time)
+{
+  if($time > (time() - (3600*24))) {
+	// Calculate time difference
+	$diff = time() - $time;
+	$hours = $diff / 3600;
+	return "Hace ". $hours ." horas";
+  } else {
+	return "el " . date('d-m-Y', $time);
+
+  }
+}
+
+/**
+ * Number of pending emails
+ */
 function pendingEmails($idUser)
 {
   echo $messagesSql = "SELECT id FROM messages WHERE messages.new = 1 AND messages.idUserReceptor = ". intval($idUser);

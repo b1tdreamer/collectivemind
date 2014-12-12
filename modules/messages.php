@@ -26,8 +26,8 @@ while($rcsMessages = mysqli_fetch_array($messages)){
 				<img class="media-object" src="<?=$rcsMessages["userThumb"]?>" alt="<?=$rcsMessages["username"]?>">
 			</figure>
 			<div class="media-body">
-				<h4 class="media-heading message__heading"><?=$rcsMessages["username"]?></h4>
-				<span><?=$rcsMessages["date"]?></span>
+				<h4 class="media-heading message__heading"><?=$rcsMessages["username"]?> <span class="pull-right"><?=timeAgo($rcsMessages["date"])?></span></h4>
+				
 				<p class="message__msg"><?=$rcsMessages["message"]?></p>
 			</div>
 		</div> <!-- /message -->

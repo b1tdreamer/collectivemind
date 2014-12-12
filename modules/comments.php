@@ -30,7 +30,7 @@ while($rcsComments = mysqli_fetch_array($comments)){
 			<div class="media-body">
 				<h4 class="media-heading message__heading">
 					<?=$rcsComments["author"]?>
-					<span> <?=$rcsComments["date"]?></span>
+					<span class="pull-right"> <?=timeAgo($rcsComments["date"])?></span>
 				</h4>
 				<p class="message__msg"><?=stripslashes($rcsComments["comment"])?></p>
 			</div>
